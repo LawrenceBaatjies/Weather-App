@@ -4,5 +4,5 @@ In the following "code along" you'll be building a complete Weather App that mak
 Build a Weather App with Vanilla JavaScript Tutorial
 https://www.youtube.com/watch?v=wPElVpR1rwA
 
-OpenWeatherMap® API: Get Historical & Current Weather Data | RapidAPI
+OpenWeatherMap® API: Get Historical & Current Weather Data | RapidAPI|
 https://rapidapi.com/blog/lp/openweath
